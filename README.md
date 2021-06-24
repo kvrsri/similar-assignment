@@ -1,8 +1,8 @@
 # PYTHON PROGRAM
-##  How to search for multiple strings in a file and get top 20 suggestion matched lines along with their line numbers.
+### How to search for multiple strings in a file and get top 20 suggestion matched lines along with their line numbers.
 
-# Jupyter studio Extension for Visual Studio
-## To know how the Python and Jupyter Extension are working together to provide an optimum Python notebooks experience please follow the instructions.
+## Jupyter studio Extension for Visual Studio
+### To know how the Python and Jupyter Extension are working together to provide an optimum Python notebooks experience please follow the instructions.
 
 # Quick start and installation
 * step 1: install [Visual studio code](https://code.visualstudio.com/download)
